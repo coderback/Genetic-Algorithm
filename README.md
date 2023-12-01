@@ -11,7 +11,7 @@ The GA evolves a population of individuals over a specified number of generation
 * Visualization: Fitness progression is visualized over generations using Matplotlib.  
 
 ## Usage
-* Clone the repository: https://github.com/coderback/Genetic-Algorithm.git  
+* Clone the repository: git clone https://github.com/coderback/Genetic-Algorithm.git  
 * Install dependencies: pip install matplotlib  
 * Run the GA script: minimalisation_function.py  
 
