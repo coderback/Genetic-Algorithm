@@ -5,7 +5,7 @@ The GA evolves a population of individuals over a specified number of generation
 ## Key Features
 * Population Representation: Individuals are represented as classes with real-valued genes.  
 * Selection: Parents are randomly selected from the current population.  
-* Crossover: Two-point crossover is applied to pairs of individuals in the offspring.  
+* Crossover: single-point crossover is applied to pairs of individuals in the offspring.  
 * Mutation: Random alterations are made to individual genes based on a mutation rate.  
 * Fitness Calculation: The fitness of each individual is determined by a user-defined test function.  
 * Visualization: Fitness progression is visualized over generations using Matplotlib.  
